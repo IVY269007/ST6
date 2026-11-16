@@ -1,0 +1,6 @@
+{
+  "name": "SF6 8人ダブルエリミネーション トーナメント表",
+  "description": "参加者8名のストリートファイター6 ダブルエリミネーション大会向けトーナメント管理PWAアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
